@@ -1,0 +1,35 @@
+*,html{ margin: 0; padding: 0; }
+.container-content1{
+    height:50px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container-h1{ color:white; }
+body{ background-color: grey; }
+
+.container-content2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-content{ 
+    background-color: rgb(235, 235, 235);
+    padding: 9px;
+ }
+ h3{  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ h4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
